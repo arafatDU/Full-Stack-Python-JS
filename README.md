@@ -1,10 +1,10 @@
 # Full-Stack-Python-JS
-Here is all codes I did while learning from Bohubrihi's Full Stack With Python &amp; JavaScript
+Here are all the codes I did while learning from Bohubrihi's Full Stack With Python &amp; JavaScript
 
 
 ### Full Stack with Python & JavaScript topic included:
 #### • Modern JavaScript Programming
-#### • Programming wiht Python
+#### • Programming with Python
 #### • Python for Django
 #### • SQL for Django
 #### • Backend Development with Django
