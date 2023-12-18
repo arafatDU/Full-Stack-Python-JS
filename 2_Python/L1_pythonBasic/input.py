@@ -1,0 +1,12 @@
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+add = int(num1 + num2)
+sub = int(num1 - num2)
+mul = int(num1 * num2)
+div = num1 / num2
+rem = int(num1 % num2)
+print("The summation is " + str(add))
+print("The subtraction is " + str(sub))
+print("The multiplication is " + str(mul))
+print("The division is " + str(div))
+print("The remainder is " + str(rem))
